@@ -1,1 +1,1 @@
-A Simple Landing Page of Website.
+A Simple Landing Page created using HTML, CSS.
