@@ -1,1 +1,1 @@
-<h1>A Simple Landing Page created using HTML, CSS.</h1>
+<h2>A Simple Landing Page created using HTML, CSS.</h2>
